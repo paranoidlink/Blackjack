@@ -2,7 +2,7 @@
 
 A command-line Blackjack game written in Python.
 
-The project implements the basic gameplay loop of drawing cards, choosing whether to hit or fold, handling busts, and playing against a dealer.
+This repository contains an earlier standalone Blackjack project. A later, more developed version can be found in my [100 Days of Code - Python](https://github.com/paranoidlink/100-days-of-python) repository as the Day 11 project.
 
 ## Features
 
